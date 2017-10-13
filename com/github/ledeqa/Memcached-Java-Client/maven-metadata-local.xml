@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.ledeqa</groupId>
+  <artifactId>Memcached-Java-Client</artifactId>
+  <versioning>
+    <release>4.0.8-ntes</release>
+    <versions>
+      <version>4.0.8-ntes</version>
+    </versions>
+    <lastUpdated>20171013084058</lastUpdated>
+  </versioning>
+</metadata>
